@@ -1,0 +1,201 @@
+OrderID,CustomerName,City,Category,OrderDate,Quantity,UnitPrice,TotalAmount,PaymentMode,OrderStatus
+1,Ishaan,Bengaluru,Furniture,2025-03-13,2,404,808,UPI,Cancelled
+2,Sneha,Kolkata,Electronics,2025-01-16,9,912,8208,UPI,Delivered
+3,Sneha,Mumbai,Sports,2025-04-12,4,4339,17356,Net Banking,Delivered
+4,Aarav,Delhi,Groceries,2025-06-24,8,2478,19824,Cash,Delivered
+5,Vihaan,Pune,Groceries,2025-02-19,4,2957,11828,Cash,Pending
+6,Aarav,Ahmedabad,Sports,2025-03-05,10,2366,23660,Net Banking,Delivered
+7,Sneha,Chennai,Sports,2025-04-09,9,2601,23409,UPI,Delivered
+8,Vihaan,Bengaluru,Electronics,2025-07-14,4,2570,10280,Cash,Pending
+9,Riya,Chennai,Furniture,2025-12-10,6,1532,9192,Cash,Cancelled
+10,Arjun,Bengaluru,Furniture,2025-08-25,2,1601,3202,Net Banking,Pending
+11,Riya,Mumbai,Furniture,2025-01-17,9,1999,17991,Cash,Pending
+12,Diya,Chennai,Furniture,2025-12-02,5,742,3710,Net Banking,Pending
+13,Ishaan,Delhi,Furniture,2025-10-15,8,1370,10960,Cash,Cancelled
+14,Sneha,Kolkata,Clothing,2025-04-23,10,3709,37090,Card,Cancelled
+15,Aarav,Pune,Furniture,2025-11-18,8,944,7552,Card,Cancelled
+16,Kabir,Kolkata,Sports,2025-08-28,7,720,5040,Cash,Cancelled
+17,Arjun,Hyderabad,Clothing,2025-02-27,1,1138,1138,Cash,Pending
+18,Aarav,Hyderabad,Sports,2025-04-02,3,3916,11748,UPI,Cancelled
+19,Sneha,Bengaluru,Furniture,2025-07-11,5,4358,21790,Card,Cancelled
+20,Sneha,Chennai,Groceries,2025-01-10,9,204,1836,UPI,Pending
+21,Aarav,Bengaluru,Sports,2025-02-10,5,2161,10805,UPI,Cancelled
+22,Arjun,Delhi,Furniture,2025-12-04,8,766,6128,Net Banking,Cancelled
+23,Arjun,Kolkata,Furniture,2025-10-04,3,2371,7113,Card,Cancelled
+24,Riya,Ahmedabad,Sports,2025-08-20,5,3468,17340,UPI,Delivered
+25,Riya,Mumbai,Sports,2025-10-11,4,724,2896,Card,Cancelled
+26,Vihaan,Mumbai,Furniture,2025-02-04,4,258,1032,UPI,Pending
+27,Diya,Hyderabad,Groceries,2025-04-20,2,4411,8822,Card,Cancelled
+28,Meera,Bengaluru,Groceries,2025-07-28,10,4920,49200,Card,Delivered
+29,Riya,Kolkata,Groceries,2025-08-28,2,3731,7462,UPI,Cancelled
+30,Kabir,Chennai,Electronics,2025-05-08,2,696,1392,Card,Delivered
+31,Ananya,Kolkata,Furniture,2025-05-23,9,3875,34875,Net Banking,Delivered
+32,Arjun,Pune,Electronics,2025-11-30,2,3830,7660,UPI,Delivered
+33,Kabir,Ahmedabad,Groceries,2025-04-20,4,1562,6248,Net Banking,Delivered
+34,Aarav,Kolkata,Clothing,2025-08-21,3,3304,9912,Cash,Pending
+35,Ananya,Bengaluru,Clothing,2025-04-22,9,4186,37674,UPI,Cancelled
+36,Riya,Mumbai,Electronics,2025-10-27,9,699,6291,Net Banking,Cancelled
+37,Aarav,Pune,Furniture,2025-02-05,9,1489,13401,UPI,Cancelled
+38,Vihaan,Bengaluru,Sports,2025-11-01,4,3507,14028,UPI,Cancelled
+39,Sneha,Chennai,Clothing,2025-04-15,2,3634,7268,Cash,Delivered
+40,Ananya,Hyderabad,Groceries,2025-06-11,5,3442,17210,UPI,Delivered
+41,Vihaan,Pune,Sports,2025-04-20,8,4812,38496,Cash,Delivered
+42,Diya,Chennai,Clothing,2025-03-22,6,763,4578,Net Banking,Cancelled
+43,Aarav,Hyderabad,Electronics,2025-03-10,5,4533,22665,Cash,Delivered
+44,Ananya,Hyderabad,Clothing,2025-11-06,2,4732,9464,Card,Cancelled
+45,Ishaan,Ahmedabad,Clothing,2025-01-27,6,1867,11202,UPI,Cancelled
+46,Aarav,Mumbai,Clothing,2025-03-08,7,2466,17262,Cash,Delivered
+47,Kabir,Mumbai,Electronics,2025-02-08,8,4719,37752,Card,Cancelled
+48,Sneha,Delhi,Groceries,2025-03-07,1,3224,3224,UPI,Pending
+49,Riya,Bengaluru,Furniture,2025-12-08,6,526,3156,UPI,Pending
+50,Sneha,Delhi,Furniture,2025-03-25,9,3529,31761,Card,Pending
+51,Riya,Kolkata,Furniture,2025-05-17,1,1669,1669,Card,Cancelled
+52,Aarav,Ahmedabad,Furniture,2025-04-13,2,3333,6666,Net Banking,Pending
+53,Diya,Mumbai,Furniture,2025-07-24,5,2064,10320,Cash,Pending
+54,Riya,Kolkata,Sports,2025-06-19,2,2486,4972,UPI,Delivered
+55,Sneha,Hyderabad,Electronics,2025-02-25,5,1662,8310,Net Banking,Pending
+56,Sneha,Pune,Groceries,2025-10-23,6,3774,22644,Card,Pending
+57,Aarav,Bengaluru,Clothing,2025-08-09,1,3772,3772,UPI,Cancelled
+58,Vihaan,Hyderabad,Sports,2025-06-08,6,2771,16626,Net Banking,Pending
+59,Arjun,Delhi,Furniture,2025-08-04,7,2622,18354,Net Banking,Cancelled
+60,Ishaan,Kolkata,Sports,2025-01-01,3,4862,14586,Cash,Pending
+61,Sneha,Chennai,Groceries,2025-08-15,4,3721,14884,Net Banking,Cancelled
+62,Meera,Delhi,Electronics,2025-05-26,4,4387,17548,Cash,Delivered
+63,Diya,Bengaluru,Furniture,2025-01-13,4,2742,10968,UPI,Delivered
+64,Meera,Kolkata,Sports,2025-04-10,8,796,6368,Net Banking,Pending
+65,Ananya,Mumbai,Electronics,2025-08-06,7,2198,15386,Card,Delivered
+66,Aarav,Bengaluru,Electronics,2025-08-22,9,4005,36045,Card,Pending
+67,Sneha,Chennai,Groceries,2025-11-10,9,4778,43002,Net Banking,Cancelled
+68,Meera,Ahmedabad,Clothing,2025-05-07,8,1503,12024,Cash,Cancelled
+69,Ishaan,Ahmedabad,Electronics,2026-01-01,8,2159,17272,Cash,Delivered
+70,Riya,Pune,Furniture,2025-03-19,5,2951,14755,Card,Pending
+71,Vihaan,Kolkata,Groceries,2025-06-19,3,1952,5856,Net Banking,Pending
+72,Kabir,Kolkata,Sports,2025-12-23,1,1894,1894,UPI,Cancelled
+73,Aarav,Chennai,Clothing,2025-07-19,7,4107,28749,Net Banking,Cancelled
+74,Meera,Bengaluru,Clothing,2025-08-12,9,2006,18054,Net Banking,Delivered
+75,Kabir,Delhi,Groceries,2025-03-07,7,2953,20671,UPI,Pending
+76,Aarav,Pune,Groceries,2025-03-11,10,4823,48230,Net Banking,Delivered
+77,Kabir,Chennai,Furniture,2025-08-21,1,2331,2331,Cash,Pending
+78,Kabir,Hyderabad,Electronics,2025-08-29,7,2479,17353,UPI,Cancelled
+79,Riya,Bengaluru,Electronics,2025-11-30,9,626,5634,UPI,Delivered
+80,Aarav,Delhi,Furniture,2025-03-06,4,1833,7332,Net Banking,Cancelled
+81,Diya,Ahmedabad,Clothing,2025-07-08,2,4820,9640,Card,Cancelled
+82,Ananya,Hyderabad,Electronics,2025-10-24,10,1138,11380,UPI,Pending
+83,Kabir,Bengaluru,Electronics,2025-10-31,10,3274,32740,Card,Delivered
+84,Sneha,Mumbai,Clothing,2025-09-30,5,1191,5955,Net Banking,Cancelled
+85,Arjun,Chennai,Electronics,2025-08-04,6,764,4584,Net Banking,Delivered
+86,Meera,Delhi,Groceries,2025-04-01,7,3167,22169,Cash,Cancelled
+87,Meera,Kolkata,Sports,2025-05-18,9,4160,37440,Cash,Delivered
+88,Meera,Bengaluru,Groceries,2025-10-19,2,2484,4968,Net Banking,Pending
+89,Riya,Delhi,Groceries,2025-04-19,1,4249,4249,Cash,Pending
+90,Sneha,Hyderabad,Sports,2025-01-06,6,2490,14940,Card,Delivered
+91,Meera,Bengaluru,Groceries,2025-11-27,4,3529,14116,Net Banking,Pending
+92,Ishaan,Bengaluru,Groceries,2025-12-21,1,962,962,Card,Pending
+93,Meera,Chennai,Groceries,2025-10-09,10,3223,32230,Cash,Pending
+94,Ishaan,Hyderabad,Furniture,2025-03-03,8,2419,19352,Card,Pending
+95,Ananya,Bengaluru,Furniture,2025-09-05,2,4589,9178,Cash,Cancelled
+96,Sneha,Hyderabad,Electronics,2025-04-10,10,4497,44970,Cash,Delivered
+97,Ishaan,Mumbai,Sports,2025-03-06,6,1669,10014,Cash,Delivered
+98,Ishaan,Delhi,Groceries,2025-02-22,1,4733,4733,UPI,Cancelled
+99,Meera,Ahmedabad,Clothing,2025-04-05,5,4045,20225,UPI,Pending
+100,Vihaan,Kolkata,Groceries,2025-02-07,8,1134,9072,UPI,Delivered
+101,Ishaan,Pune,Furniture,2025-03-02,3,4810,14430,Net Banking,Cancelled
+102,Arjun,Kolkata,Groceries,2025-08-15,10,2048,20480,Cash,Cancelled
+103,Sneha,Mumbai,Sports,2025-02-20,7,2701,18907,Card,Cancelled
+104,Vihaan,Delhi,Furniture,2025-03-30,4,2367,9468,UPI,Delivered
+105,Meera,Ahmedabad,Clothing,2025-01-17,1,3546,3546,Card,Pending
+106,Vihaan,Bengaluru,Clothing,2025-11-17,5,3919,19595,Card,Pending
+107,Diya,Delhi,Clothing,2025-03-14,2,4661,9322,UPI,Delivered
+108,Sneha,Hyderabad,Groceries,2025-03-05,3,2719,8157,Net Banking,Cancelled
+109,Ishaan,Ahmedabad,Groceries,2025-02-11,5,3497,17485,UPI,Pending
+110,Aarav,Pune,Furniture,2025-12-12,6,2251,13506,UPI,Cancelled
+111,Aarav,Delhi,Groceries,2025-09-23,5,4920,24600,Net Banking,Pending
+112,Kabir,Ahmedabad,Electronics,2025-08-29,3,4995,14985,Cash,Pending
+113,Vihaan,Delhi,Clothing,2025-07-30,6,2830,16980,Net Banking,Pending
+114,Aarav,Ahmedabad,Electronics,2025-06-11,7,4706,32942,Cash,Pending
+115,Arjun,Mumbai,Sports,2025-08-25,2,3511,7022,Net Banking,Delivered
+116,Riya,Ahmedabad,Groceries,2025-01-27,4,4447,17788,Card,Pending
+117,Ishaan,Ahmedabad,Groceries,2025-03-04,9,1273,11457,UPI,Cancelled
+118,Ananya,Hyderabad,Sports,2025-01-08,10,2160,21600,Net Banking,Delivered
+119,Meera,Pune,Furniture,2025-09-13,4,1129,4516,Cash,Cancelled
+120,Meera,Ahmedabad,Furniture,2025-08-22,5,3603,18015,Card,Pending
+121,Ananya,Pune,Clothing,2025-08-01,4,4363,17452,Cash,Cancelled
+122,Ishaan,Hyderabad,Sports,2025-10-24,5,221,1105,Net Banking,Delivered
+123,Meera,Chennai,Clothing,2025-10-10,8,4612,36896,Net Banking,Pending
+124,Diya,Kolkata,Furniture,2025-07-30,6,1745,10470,UPI,Pending
+125,Kabir,Delhi,Groceries,2025-01-19,8,3323,26584,Card,Cancelled
+126,Vihaan,Ahmedabad,Electronics,2025-09-27,10,2919,29190,Net Banking,Delivered
+127,Ananya,Pune,Groceries,2025-05-16,3,3558,10674,Cash,Cancelled
+128,Riya,Kolkata,Clothing,2025-11-17,7,857,5999,Net Banking,Cancelled
+129,Diya,Hyderabad,Furniture,2025-02-16,1,760,760,Net Banking,Delivered
+130,Ananya,Hyderabad,Electronics,2025-01-24,2,3834,7668,Cash,Delivered
+131,Riya,Kolkata,Furniture,2025-05-06,5,3136,15680,Net Banking,Cancelled
+132,Ananya,Pune,Sports,2025-07-15,3,1592,4776,Card,Pending
+133,Diya,Ahmedabad,Clothing,2025-08-24,10,1372,13720,Cash,Cancelled
+134,Ishaan,Delhi,Electronics,2025-08-15,1,4011,4011,Cash,Cancelled
+135,Ishaan,Ahmedabad,Clothing,2025-04-12,5,3675,18375,Net Banking,Pending
+136,Kabir,Chennai,Sports,2025-06-01,2,2143,4286,Cash,Delivered
+137,Aarav,Mumbai,Sports,2025-09-12,7,2448,17136,Cash,Delivered
+138,Diya,Bengaluru,Sports,2025-05-09,10,3086,30860,Card,Cancelled
+139,Ishaan,Ahmedabad,Electronics,2025-10-24,2,522,1044,Cash,Cancelled
+140,Ishaan,Chennai,Groceries,2025-03-31,3,938,2814,Card,Delivered
+141,Arjun,Hyderabad,Furniture,2025-05-12,9,3197,28773,Net Banking,Pending
+142,Meera,Pune,Furniture,2025-04-26,6,1143,6858,Net Banking,Cancelled
+143,Kabir,Mumbai,Clothing,2025-10-02,6,939,5634,UPI,Pending
+144,Sneha,Kolkata,Clothing,2025-02-25,6,2347,14082,Card,Pending
+145,Riya,Bengaluru,Electronics,2025-11-22,1,4799,4799,Net Banking,Cancelled
+146,Vihaan,Delhi,Electronics,2025-01-20,5,3544,17720,Cash,Pending
+147,Diya,Delhi,Groceries,2025-08-21,2,996,1992,Cash,Cancelled
+148,Sneha,Delhi,Groceries,2025-12-02,9,3633,32697,UPI,Pending
+149,Ishaan,Mumbai,Clothing,2025-04-22,10,3543,35430,Net Banking,Pending
+150,Vihaan,Chennai,Sports,2025-11-27,4,3171,12684,Cash,Delivered
+151,Diya,Pune,Groceries,2025-02-16,7,2460,17220,Card,Cancelled
+152,Aarav,Chennai,Furniture,2025-03-06,10,374,3740,Card,Delivered
+153,Sneha,Bengaluru,Furniture,2025-06-18,9,1897,17073,Card,Cancelled
+154,Ananya,Delhi,Sports,2025-05-09,1,2471,2471,Card,Delivered
+155,Aarav,Chennai,Furniture,2025-10-29,1,1279,1279,Cash,Delivered
+156,Aarav,Delhi,Groceries,2025-09-27,3,2373,7119,UPI,Cancelled
+157,Meera,Chennai,Sports,2025-10-31,2,4101,8202,UPI,Pending
+158,Sneha,Mumbai,Sports,2025-06-04,9,2014,18126,Net Banking,Cancelled
+159,Meera,Kolkata,Groceries,2025-12-18,1,698,698,UPI,Pending
+160,Vihaan,Chennai,Sports,2025-03-17,8,802,6416,UPI,Delivered
+161,Arjun,Chennai,Groceries,2025-11-02,5,4995,24975,Cash,Pending
+162,Vihaan,Pune,Sports,2025-04-21,9,3724,33516,Net Banking,Pending
+163,Riya,Ahmedabad,Groceries,2025-08-01,4,3589,14356,UPI,Pending
+164,Ishaan,Chennai,Furniture,2025-12-18,7,2760,19320,Net Banking,Delivered
+165,Vihaan,Kolkata,Electronics,2025-07-10,2,899,1798,Card,Cancelled
+166,Arjun,Chennai,Electronics,2025-07-30,1,4800,4800,Cash,Cancelled
+167,Ishaan,Hyderabad,Clothing,2025-02-23,7,621,4347,Card,Delivered
+168,Vihaan,Chennai,Sports,2025-07-08,8,2037,16296,UPI,Pending
+169,Kabir,Mumbai,Sports,2025-12-03,10,2052,20520,Cash,Delivered
+170,Ishaan,Chennai,Clothing,2025-01-04,3,2438,7314,Card,Delivered
+171,Vihaan,Delhi,Electronics,2025-02-16,10,3483,34830,Card,Pending
+172,Riya,Delhi,Clothing,2025-06-09,7,3916,27412,Cash,Cancelled
+173,Aarav,Delhi,Furniture,2025-11-13,10,895,8950,UPI,Cancelled
+174,Meera,Kolkata,Groceries,2025-11-07,2,2429,4858,Net Banking,Pending
+175,Arjun,Pune,Clothing,2025-08-09,5,1965,9825,UPI,Pending
+176,Arjun,Hyderabad,Electronics,2025-04-23,10,4186,41860,Net Banking,Cancelled
+177,Diya,Hyderabad,Furniture,2025-03-12,1,262,262,Cash,Pending
+178,Aarav,Ahmedabad,Groceries,2025-03-31,6,1182,7092,Card,Pending
+179,Arjun,Chennai,Electronics,2025-07-23,9,2085,18765,UPI,Pending
+180,Vihaan,Chennai,Sports,2025-08-08,1,3966,3966,Net Banking,Cancelled
+181,Vihaan,Kolkata,Electronics,2025-06-16,7,2571,17997,Card,Cancelled
+182,Vihaan,Kolkata,Electronics,2025-05-05,8,3164,25312,Net Banking,Cancelled
+183,Vihaan,Kolkata,Clothing,2025-06-23,7,4492,31444,Card,Pending
+184,Arjun,Pune,Sports,2025-09-19,3,825,2475,Card,Pending
+185,Diya,Pune,Furniture,2025-05-12,6,1409,8454,Card,Delivered
+186,Vihaan,Delhi,Groceries,2025-08-26,10,1452,14520,Net Banking,Cancelled
+187,Riya,Delhi,Groceries,2025-02-04,10,2847,28470,Net Banking,Pending
+188,Sneha,Mumbai,Clothing,2025-09-17,5,2450,12250,UPI,Pending
+189,Aarav,Mumbai,Clothing,2025-05-27,8,3902,31216,UPI,Cancelled
+190,Kabir,Ahmedabad,Sports,2025-10-11,2,4353,8706,UPI,Pending
+191,Riya,Ahmedabad,Sports,2025-03-19,10,1742,17420,UPI,Pending
+192,Vihaan,Delhi,Electronics,2025-05-07,2,3013,6026,Net Banking,Pending
+193,Sneha,Delhi,Clothing,2025-07-10,9,4482,40338,Cash,Pending
+194,Sneha,Mumbai,Clothing,2025-02-03,7,2971,20797,Cash,Delivered
+195,Ishaan,Hyderabad,Sports,2025-03-18,9,3366,30294,Cash,Delivered
+196,Riya,Hyderabad,Groceries,2025-03-08,10,1358,13580,UPI,Pending
+197,Riya,Delhi,Sports,2025-02-17,9,3285,29565,Net Banking,Cancelled
+198,Riya,Hyderabad,Furniture,2025-04-20,6,349,2094,Cash,Pending
+199,Ananya,Delhi,Electronics,2025-06-01,4,2055,8220,UPI,Cancelled
+200,Aarav,Chennai,Sports,2025-03-09,9,4513,40617,Net Banking,Delivered
